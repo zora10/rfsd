@@ -243,7 +243,6 @@ function App() {
                 <Grid item xs={12}>
                   <Paper sx={{ p: 2, bgcolor: '#121212', border: '1px solid #121212' }}>
                     <Typography variant="h6" gutterBottom sx={{ color: '#ffffff' }}>
-                      История транзакций
                     </Typography>
                     {/* Здесь будет таблица с историей транзакций */}
                   </Paper>
